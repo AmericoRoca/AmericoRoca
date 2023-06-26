@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from Spain but living in the Netherlands (Amsterdam).
 
-- :telescope: I’m working as a Software developer at Aurelius Enterprise.
+- :telescope: I’m working as a Software developer at Comrads Solutions.
 
 - :seedling: Improving myself everyday.
 
