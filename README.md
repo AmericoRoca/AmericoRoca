@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from Spain but living around the world.
 
-- :telescope: I’m working as a Software developer at Comrads Solutions.
+- :telescope: I’m working as a Software developer at Hogarth Spain.
 
 - :seedling: Improving myself everyday.
 
